@@ -133,7 +133,9 @@ endif()
 #--------------------------------------------------------------
 
 add_executable(viper_rigid_cam viper_rigid_cam.cpp)
+add_executable(viper_scm_cam viper_scm_cam.cpp)
 ament_target_dependencies(viper_rigid_cam rclcpp sensor_msgs)
+ament_target_dependencies(viper_scm_cam rclcpp sensor_msgs)
 #--------------------------------------------------------------
 # Set properties for your executable target
 # 
@@ -147,12 +149,16 @@ target_compile_definitions(viper_rigid_cam PUBLIC "CHRONO_DATA_DIR=\"${CHRONO_DA
 target_compile_options(viper_rigid_cam PUBLIC ${CHRONO_CXX_FLAGS})
 target_link_options(viper_rigid_cam PUBLIC ${CHRONO_LINKER_FLAGS})
 
+target_compile_definitions(viper_scm_cam PUBLIC "CHRONO_DATA_DIR=\"${CHRONO_DATA_DIR}\"") 
+target_compile_options(viper_scm_cam PUBLIC ${CHRONO_CXX_FLAGS})
+target_link_options(viper_scm_cam PUBLIC ${CHRONO_LINKER_FLAGS})
 #--------------------------------------------------------------
 # Link to Chrono libraries and dependency libraries
 #--------------------------------------------------------------
 
 target_link_libraries(viper_rigid_cam ${CHRONO_LIBRARIES})
 
+target_link_libraries(viper_scm_cam ${CHRONO_LIBRARIES})
 #--------------------------------------------------------------
 # === 4 (OPTIONAL) ===
 # 
