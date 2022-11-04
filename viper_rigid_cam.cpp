@@ -58,7 +58,7 @@ using namespace chrono::geometry;
 using namespace chrono::sensor; 
 using namespace std::chrono_literals;
 
-
+using namespace irr;
 
 // Use custom material for the Viper Wheel
 bool use_custom_mat = false;
@@ -117,6 +117,7 @@ int main(int argc, char* argv[]) {
     //rclcpp::Node node("Sensor_Camera");
     //rclcpp::Publisher::SharedPtr publisher = node->create_publisher<sensor_msgs::msg::Image>("my_topic", 10);
     auto publisher = node->create_publisher<sensor_msgs::msg::Image>("sensor_image", 10);
+    auto publisher2 = node->create_publisher<sensor_msgs::msg::Image>("sensor_image_3rdperson", 10);
     GetLog() << "Copyright (c) 2017 projectchrono.org\nChrono version: " << CHRONO_VERSION << "\n\n";
     // Create the Chrono system with gravity in the negative Z direction
     ChSystemNSC sys;
@@ -268,6 +269,22 @@ int main(int argc, char* argv[]) {
     cam->SetCollectionWindow(exposure_time);
     cam->PushFilter(chrono_types::make_shared<ChFilterRGBA8Access>());
     manager->AddSensor(cam);
+
+    auto cam_obs = chrono_types::make_shared<ChCameraSensor>(
+        viper.GetChassis()->GetBody(),                                              // body camera is attached to
+        cam_update_rate,  
+        // this is the line to adjust camera pos                                                   // update rate in Hz
+        chrono::ChFrame<double>({-5, -5, 5}, Q_from_AngAxis(.2, {-2, 3, 6})),  // offset pose
+        image_width,                                                         // image width
+        image_height,                                                        // image height
+        cam_fov,
+        super_samples);  // fov, lag, exposure
+    cam_obs->SetName("Camera Sensor Thirdperson Viewpoint");
+    cam_obs->SetCollectionWindow(exposure_time);
+    cam_obs->PushFilter(chrono_types::make_shared<ChFilterRGBA8Access>());
+    manager->AddSensor(cam_obs);
+
+
     float ch_time = 0.0f;
     float end_time = 200.0f;
     sensor_msgs::msg::Image out_image;
@@ -279,6 +296,17 @@ int main(int argc, char* argv[]) {
     //add a camera buffer here
     std::vector<uint8_t> image_buffer(3*image_width*image_height);
     out_image.data = image_buffer;
+
+    sensor_msgs::msg::Image out_image_3rd;
+    out_image_3rd.height = image_height;
+    out_image_3rd.width  = image_width;
+    out_image_3rd.encoding = "rgb8";
+    out_image_3rd.is_bigendian = 1;
+    out_image_3rd.step = 3 * out_image_3rd.width;
+    //add a camera buffer here
+    std::vector<uint8_t> image_buffer_3rd(3*image_width*image_height);
+    out_image_3rd.data = image_buffer_3rd;
+
     // Simulation loop
     while (rclcpp::ok()) {
         ch_time = (float)sys.GetChTime();
@@ -311,6 +339,26 @@ int main(int argc, char* argv[]) {
         out_image.data = image_buffer;
         // publish data into ros topic here
         publisher->publish(out_image);
+
+        // Access the RGBA8 buffer from the camera
+        UserRGBA8BufferPtr rgba8_ptr_3rd;
+        rgba8_ptr_3rd = cam_obs->GetMostRecentBuffer<UserRGBA8BufferPtr>();
+        if (rgba8_ptr_3rd->Buffer){
+            std::cout << "Publishing 3rd person view data ..." <<std::endl;
+            for (size_t i=0; i<(image_height*image_width);i++){
+                //std::cout<<"debug"<<std::endl;
+                PixelRGBA8 data_pixel = rgba8_ptr_3rd->Buffer[i];
+                image_buffer_3rd[i*3]=(data_pixel.R);
+                image_buffer_3rd[i*3+1]=(data_pixel.G);
+                image_buffer_3rd[i*3+2]=(data_pixel.B);
+            }
+        }
+        else {std::cout<<"waiting for the data"<<std::endl;}
+        // assign value from image_buffer (same data type as out_image.data) to the ros topic
+        out_image_3rd.data = image_buffer_3rd;
+        // publish data into ros topic here
+        publisher2->publish(out_image_3rd);
+
         // update in the simulation loop 
         // update sensor manager
         manager->Update();
