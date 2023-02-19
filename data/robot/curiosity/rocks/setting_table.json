@@ -1,0 +1,3363 @@
+{
+    "0": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "1": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "2": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "3": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "4": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "5": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "6": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "7": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "8": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "9": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "10": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "11": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "12": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "13": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "14": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "15": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "16": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "17": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "18": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "19": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "20": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "21": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "22": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "23": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "24": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "25": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "26": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "27": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "28": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "29": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "30": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "31": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "32": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "33": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "34": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "35": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "36": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "37": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "38": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "39": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "40": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "41": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "42": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "43": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "44": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "45": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "46": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "47": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "48": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "49": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "50": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "51": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "52": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "53": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "54": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "55": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "56": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "57": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "58": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "59": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "60": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "61": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "62": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "63": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "64": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "65": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "66": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "67": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "68": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "69": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "70": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "71": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "72": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "73": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "74": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "75": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "76": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "77": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "78": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "79": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "80": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "81": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "82": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "83": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "84": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "85": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "86": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "87": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "88": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "89": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "90": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "91": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "92": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "93": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "94": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "95": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "96": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "97": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "98": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "99": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "100": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "101": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "102": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "103": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "104": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "105": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "106": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "107": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "108": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "109": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "110": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "111": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "112": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "113": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "114": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "115": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "116": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "117": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "118": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "119": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "120": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "121": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "122": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "123": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "124": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "125": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "126": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "127": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "128": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "129": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "130": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "131": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "132": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "133": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "134": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "135": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "136": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "137": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "138": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "139": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "140": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "141": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "142": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "143": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "144": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "145": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "146": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "147": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "148": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "149": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "150": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "151": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "152": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "153": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "154": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "155": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "156": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "157": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "158": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "159": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "160": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "161": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "162": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "163": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "164": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "165": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "166": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "167": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "168": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "169": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "170": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "171": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "172": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "173": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "174": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "175": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "176": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "177": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "178": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "179": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "180": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "181": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "182": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "183": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "184": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "185": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "186": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "187": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "188": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "189": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "190": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "191": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "192": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "193": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "194": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "195": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "196": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "197": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "198": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "199": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "200": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "201": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "202": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "203": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "204": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "205": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "206": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "207": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "208": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "209": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "210": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "211": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "212": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "213": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "214": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "215": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "216": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "217": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "218": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "219": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "220": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "221": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "222": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "223": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "224": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "225": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "226": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "227": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "228": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "229": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "230": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "231": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "232": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "233": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "234": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "235": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "236": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "237": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "238": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "239": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "240": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "241": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "242": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "243": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "244": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "245": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "246": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "247": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "248": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "249": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "250": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "251": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "252": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "253": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "254": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "255": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "256": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "257": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "258": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "259": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "260": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "261": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "262": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "263": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "264": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "265": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "266": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "267": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "268": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "269": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "270": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "271": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "272": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "273": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "274": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "275": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "276": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "277": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "278": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "279": {
+        "terrain": 1,
+        "camera_position": "B",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "280": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "281": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "282": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "283": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "284": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "285": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "286": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "287": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "288": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "289": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "290": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "291": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "292": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "293": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": -1,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "294": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "295": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "296": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "297": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "298": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "299": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "300": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "301": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "302": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "303": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "304": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "305": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "306": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "307": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "308": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "309": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "310": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "311": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "312": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "313": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "314": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "315": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "316": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "317": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "318": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "319": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "320": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "321": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 180,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "322": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "323": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "324": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "325": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "326": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "327": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "328": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "329": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "330": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "331": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "332": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "333": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "334": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "335": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 270,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "336": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "337": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "338": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "339": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "340": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "341": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "342": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "343": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "344": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "345": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "346": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "347": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "348": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "349": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 0,
+        "sun_azimuth": 350,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "350": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "351": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "352": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "353": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "354": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "355": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "356": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "357": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "358": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "359": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "360": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "361": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "362": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "363": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": -1,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "364": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "365": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "366": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "367": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "368": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "369": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "370": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "371": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "372": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "373": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "374": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "375": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "376": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "377": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 30,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "378": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "379": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "380": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "381": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "382": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "383": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "384": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "385": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "386": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "387": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "388": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "389": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "390": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "391": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 180,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "392": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "393": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "394": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "395": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "396": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "397": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "398": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "399": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "400": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "401": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "402": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "403": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "404": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "405": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 270,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "406": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 32,
+        "camera_index": "L"
+    },
+    "407": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 32,
+        "camera_index": "R"
+    },
+    "408": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 64,
+        "camera_index": "L"
+    },
+    "409": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 64,
+        "camera_index": "R"
+    },
+    "410": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 128,
+        "camera_index": "L"
+    },
+    "411": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 128,
+        "camera_index": "R"
+    },
+    "412": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 256,
+        "camera_index": "L"
+    },
+    "413": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 256,
+        "camera_index": "R"
+    },
+    "414": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 512,
+        "camera_index": "L"
+    },
+    "415": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 512,
+        "camera_index": "R"
+    },
+    "416": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 1024,
+        "camera_index": "L"
+    },
+    "417": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 1024,
+        "camera_index": "R"
+    },
+    "418": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 2048,
+        "camera_index": "L"
+    },
+    "419": {
+        "terrain": 1,
+        "camera_position": "C",
+        "rover_lights": 1,
+        "sun_azimuth": 350,
+        "exposure_time": 2048,
+        "camera_index": "R"
+    },
+    "length": 420
+}
