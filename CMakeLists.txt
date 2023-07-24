@@ -104,7 +104,7 @@ endif()
 #--------------------------------------------------------------
 
 include_directories(${CHRONO_INCLUDE_DIRS})
-include_directories(/opt/ros/foxy/include /opt/ros/foxy/lib)
+include_directories(/opt/ros/humble/include /opt/ros/humble/lib /opt/ros/humble/share /opt/ros/humble)
 #-----------------------------------------------------------------------------
 # Fix for VS 2017 15.8 and newer to handle alignment specification with Eigen
 #-----------------------------------------------------------------------------

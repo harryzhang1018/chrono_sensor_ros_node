@@ -1,0 +1,33 @@
+{
+    "0": {
+        "terrain": 1,
+        "camera_position": "A",
+        "camera_index": "L"
+    },
+    "1": {
+        "terrain": 1,
+        "camera_position": "A",
+        "camera_index": "R"
+    },
+    "2": {
+        "terrain": 1,
+        "camera_position": "B",
+        "camera_index": "L"
+    },
+    "3": {
+        "terrain": 1,
+        "camera_position": "B",
+        "camera_index": "R"
+    },
+    "4": {
+        "terrain": 1,
+        "camera_position": "C",
+        "camera_index": "L"
+    },
+    "5": {
+        "terrain": 1,
+        "camera_position": "C",
+        "camera_index": "R"
+    },
+    "length": 6
+}

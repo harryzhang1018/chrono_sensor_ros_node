@@ -1,0 +1,9 @@
+{
+   "0": {
+        "terrain": 1,
+        "camera_position": "A",
+        "rover_lights": 0,
+        "sun_azimuth": 30,
+        "exposure_time": 1024
+    }
+}
